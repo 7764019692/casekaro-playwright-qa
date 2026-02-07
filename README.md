@@ -238,7 +238,9 @@ Link : https://casekaro.com/products/...
 ✅ Maven-based Playwright setup
 
 🚀 How to Run the Project
+
 mvn compile
+
 mvn exec:java
 
 
