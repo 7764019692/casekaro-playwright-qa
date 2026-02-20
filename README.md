@@ -238,8 +238,7 @@ Link : https://casekaro.com/products/...
 ✅ Maven-based Playwright setup
 
 🚀 How to Run the Project
-
-mvn compile
+GO TO TERMINAL AND TYPE ===   " mvn clean test " 
 
 mvn exec:java
 
