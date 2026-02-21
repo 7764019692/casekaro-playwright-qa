@@ -111,8 +111,13 @@ Run:
 
 ```bash
 mvn exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -D exec.args="install"
-3️⃣ Run Tests
-mvn clean test
+--------------------------**HOW TO RUN**-----------------
+1- disable all antivirus
+2- download file 
+3- extract file
+4- load file
+5- Go to terminal
+6- Run Tests - mvn clean test
 
 
 🛒 Sample Console Output
