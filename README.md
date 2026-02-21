@@ -7,6 +7,7 @@ This project is an **end-to-end UI Automation Framework** built using:
 - **Cucumber (BDD)**
 - **Page Object Model (POM)**
 - **Maven**
+- **Features**
 
 The framework automates a real user journey on the **Casekaro e-commerce website**, validating search behavior, product selection, cart operations, and extracting cart details.
 
